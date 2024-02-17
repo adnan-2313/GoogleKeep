@@ -46,12 +46,16 @@
   box-shadow: 5px 5px 20px -15px black;
 }
 input{
-  margin-top: 10px;
+  height: 20px;
+  font-size: 20px;
+  margin-top: 20px;
   margin-left: 20px;
   border: none;
   outline: none;
 }
 textarea{
+  height: 20px;
+  font-size: 15px;
   margin-left: 20px;
   margin-top: 10px;
   margin-bottom: 0px;
